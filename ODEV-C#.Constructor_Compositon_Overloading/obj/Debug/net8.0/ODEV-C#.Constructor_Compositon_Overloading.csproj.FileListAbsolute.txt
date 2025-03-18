@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\bin\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.exe
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\bin\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.deps.json
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\bin\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.runtimeconfig.json
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\bin\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.dll
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\bin\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.pdb
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\obj\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\obj\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\obj\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\obj\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\obj\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.sourcelink.json
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\obj\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.dll
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\obj\Debug\net8.0\refint\ODEV-C#.Constructor_Compositon_Overloading.dll
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\obj\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.pdb
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\obj\Debug\net8.0\ODEV-C#.Constructor_Compositon_Overloading.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.Constructor_Compositon_Overloading\obj\Debug\net8.0\ref\ODEV-C#.Constructor_Compositon_Overloading.dll
