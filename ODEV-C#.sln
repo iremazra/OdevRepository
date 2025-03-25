@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODEV-C#", "ODEV-C#.csproj", "{A8A8443F-C183-49CB-8771-881CDC103CF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODEV-C#", "ODEV-C#.csproj", "{A8A8443F-C183-49CB-8771-881CDC103CF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODEV-C#.Constructor_Compositon_Overloading", "ODEV-C#.Constructor_Compositon_Overloading\ODEV-C#.Constructor_Compositon_Overloading.csproj", "{5A38FDC6-629B-4B21-BCA4-5F7F184F7F36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODEV-C#.Constructor_Compositon_Overloading", "ODEV-C#.Constructor_Compositon_Overloading\ODEV-C#.Constructor_Compositon_Overloading.csproj", "{5A38FDC6-629B-4B21-BCA4-5F7F184F7F36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ODEV-C#.AccessModifiers", "ODEV-C#.AccessModifiers\ODEV-C#.AccessModifiers.csproj", "{8E30E8F3-5159-46B0-8204-E79CC5A02657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODEV-C#.GenericList", "ODEV-C#.GenericList\ODEV-C#.GenericList.csproj", "{CC3639BC-EE77-4441-8703-C7DED841A650}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{5A38FDC6-629B-4B21-BCA4-5F7F184F7F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A38FDC6-629B-4B21-BCA4-5F7F184F7F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A38FDC6-629B-4B21-BCA4-5F7F184F7F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E30E8F3-5159-46B0-8204-E79CC5A02657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E30E8F3-5159-46B0-8204-E79CC5A02657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E30E8F3-5159-46B0-8204-E79CC5A02657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E30E8F3-5159-46B0-8204-E79CC5A02657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3639BC-EE77-4441-8703-C7DED841A650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3639BC-EE77-4441-8703-C7DED841A650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3639BC-EE77-4441-8703-C7DED841A650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3639BC-EE77-4441-8703-C7DED841A650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -41,8 +41,9 @@ namespace ODEV_C_.Constructor_Compositon_Overloading.Classes
                                "kapı sayısı " + _kapi.kapiSayisi + ", " +
                                "pencere sayısı " + _pencere.pencereSayisi + ", "+
                                "kasası " + _kasa.kasa + ", " +
-                               "fiyatı " + fiyat + " TL'dir.");
+                               "fiyatı " +fiyat.ToString("N0")  + " TL'dir.");
 
         }
     }
 }
+

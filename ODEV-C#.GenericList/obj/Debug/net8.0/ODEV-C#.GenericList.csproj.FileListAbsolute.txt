@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\bin\Debug\net8.0\ODEV-C#.GenericList.exe
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\bin\Debug\net8.0\ODEV-C#.GenericList.deps.json
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\bin\Debug\net8.0\ODEV-C#.GenericList.runtimeconfig.json
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\bin\Debug\net8.0\ODEV-C#.GenericList.dll
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\bin\Debug\net8.0\ODEV-C#.GenericList.pdb
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\obj\Debug\net8.0\ODEV-C#.GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\obj\Debug\net8.0\ODEV-C#.GenericList.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\obj\Debug\net8.0\ODEV-C#.GenericList.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\obj\Debug\net8.0\ODEV-C#.GenericList.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\obj\Debug\net8.0\ODEV-C#.GenericList.sourcelink.json
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\obj\Debug\net8.0\ODEV-C#.GenericList.dll
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\obj\Debug\net8.0\refint\ODEV-C#.GenericList.dll
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\obj\Debug\net8.0\ODEV-C#.GenericList.pdb
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\obj\Debug\net8.0\ODEV-C#.GenericList.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\AcunMedyaÖdevler\ODEV-C#\ODEV-C#.GenericList\obj\Debug\net8.0\ref\ODEV-C#.GenericList.dll
